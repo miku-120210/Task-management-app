@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+.vs/
+.idea/
+
+# OS・IDE関連
+.DS_Store
+*.user
+*.suo
+
+# Unity作業ファイル
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
